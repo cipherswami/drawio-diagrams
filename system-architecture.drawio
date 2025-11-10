@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Page-1" id="qDZ6FEYslE0QE8LcwRBn">
+    <mxGraphModel dx="1042" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Oe8RuiRmqMwc4stR8fV_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oe8RuiRmqMwc4stR8fV_-2" target="Oe8RuiRmqMwc4stR8fV_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oe8RuiRmqMwc4stR8fV_-2" value="Sensing Layer" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="110" width="200" height="70" as="geometry">
+            <mxRectangle x="360" y="100" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oe8RuiRmqMwc4stR8fV_-7" value="Wi-Fi Routers" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="Oe8RuiRmqMwc4stR8fV_-2">
+          <mxGeometry x="32.5" y="30" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oe8RuiRmqMwc4stR8fV_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oe8RuiRmqMwc4stR8fV_-10" target="Oe8RuiRmqMwc4stR8fV_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oe8RuiRmqMwc4stR8fV_-10" value="Processing Layer" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="200" height="70" as="geometry">
+            <mxRectangle x="360" y="100" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oe8RuiRmqMwc4stR8fV_-11" value="Server, Engine" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="Oe8RuiRmqMwc4stR8fV_-10">
+          <mxGeometry x="32.5" y="30" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oe8RuiRmqMwc4stR8fV_-12" value="Visualization Layer" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="330" width="200" height="70" as="geometry">
+            <mxRectangle x="360" y="100" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oe8RuiRmqMwc4stR8fV_-13" value="Web server" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="Oe8RuiRmqMwc4stR8fV_-12">
+          <mxGeometry x="32.5" y="30" width="135" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
